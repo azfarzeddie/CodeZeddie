@@ -28,7 +28,7 @@ twitter_username: azfarzeddie
 github_username:  AzfarZaidi
 
 # Build settings
-theme: lanyon-master
+theme: minima
 plugins:
   - jekyll-feed
 
