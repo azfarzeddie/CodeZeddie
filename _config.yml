@@ -28,7 +28,7 @@ twitter_username: azfarzeddie
 github_username:  AzfarZaidi
 
 # Build settings
-theme: minima
+theme: jekyll-theme-midnight
 plugins:
   - jekyll-feed
 
